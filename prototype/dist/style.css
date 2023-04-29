@@ -11,7 +11,7 @@
 }
 
 .race-list h2 {
-  font-size: 24px;
+  font-size: 50px;
   margin-bottom: 10px;
 }
 
@@ -22,7 +22,7 @@
 }
 
 .race-list li {
-  font-size: 18px;
+  font-size: 28px;
   margin-bottom: 10px;
   cursor: pointer;
 }
@@ -41,12 +41,12 @@
 }
 
 .race-info h2 {
-  font-size: 36px;
+  font-size: 42px;
   margin-bottom: 10px;
 }
 
 .race-info p {
-  font-size: 18px;
+  font-size: 24px;
   line-height: 1.5;
   margin-bottom: 20px;
 }
