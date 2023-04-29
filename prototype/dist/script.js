@@ -23,7 +23,7 @@ function getRaceData(raceId) {
     case 'race1':
       return {
         name: 'Aasimar',
-        desc: 'Description for Aasimar.',
+        desc: "Age: You are mature. \nSize: Medium. Speed: 30 feet. Languages: You can speak, read, and write Common and one extra language of your choice.",
         image: 'race1.png'
       };
     case 'race2':
